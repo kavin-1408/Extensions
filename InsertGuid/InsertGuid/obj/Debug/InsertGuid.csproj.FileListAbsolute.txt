@@ -1,0 +1,17 @@
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\bin\Debug\InsertGuid.dll
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\bin\Debug\InsertGuid.pdb
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\bin\Debug\InsertGuid.pkgdef
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\bin\Debug\InsertGuid.vsix
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\bin\Debug\extension.vsixmanifest
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.csproj.AssemblyReference.cache
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\_EmptyResource.resources
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.csproj.GenerateResource.cache
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.csproj.CoreCompileInputs.cache
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.dll
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.pdb
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.pkgdef
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\InsertGuid.latest.pkgdef
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\extension.vsixmanifest
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\files.json
+C:\Users\kavin.rajkannu\Desktop\Plugins\InsertGuid\InsertGuid\obj\Debug\createTemplateManifests.cache
